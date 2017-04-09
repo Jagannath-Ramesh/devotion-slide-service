@@ -1,0 +1,58 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                      http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <!-- The Basics -->
+    <groupId>org.sathya.sai</groupId>
+    <artifactId>devotion-slide-service</artifactId>
+    <version>0.0.1</version>
+    <packaging>jar</packaging>
+    <!--<dependencies>...</dependencies>-->
+    <!--<parent>...</parent>-->
+    <!--<dependencyManagement>...</dependencyManagement>-->
+    <!--<modules>...</modules>-->
+    <!--<properties>...</properties>-->
+
+    <!-- Build Settings -->
+    <!--<build>...</build>-->
+    <!--<reporting>...</reporting>-->
+
+    <!-- More Project Information -->
+    <name>devotion-slide-service</name>
+    <description>Service to generate slide</description>
+    <!--<url>...</url>-->
+    <inceptionYear>2017</inceptionYear>
+    <!--<licenses>...</licenses>-->
+    <!--<organization>..</organization>-->
+    <developers>
+        <developer>
+            <name>Jagannath Ramesh</name>
+        </developer>
+        <developer>
+            <name>Sai Prasanna Baskaran</name>
+        </developer>
+    </developers>
+    <contributors>
+        <contributor>
+            <name>Jagannath Ramesh</name>
+        </contributor>
+        <contributor>
+            <name>Sai Prasanna Baskaran</name>
+        </contributor>
+    </contributors>
+
+    <!-- Environment Settings -->
+    <!--<issueManagement>...</issueManagement>-->
+    <!--<ciManagement>...</ciManagement>-->
+    <!--<mailingLists>...</mailingLists>-->
+    <scm>
+        <url>https://github.com/Jagannath-Ramesh/devotion-slide-service.git</url>
+    </scm>
+    <!--<prerequisites>...</prerequisites>-->
+    <!--<repositories>...</repositories>-->
+    <!--<pluginRepositories>...</pluginRepositories>-->
+    <!--<distributionManagement>...</distributionManagement>-->
+    <!--<profiles>...</profiles>-->
+</project>
