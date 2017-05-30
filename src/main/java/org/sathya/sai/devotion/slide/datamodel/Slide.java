@@ -62,6 +62,15 @@ public class Slide {
         this.title = title;
     }
 
+    @Override
+    public String toString() {
+        return "Slide{" +
+                "title='" + title + '\'' +
+                ", lyrics='" + lyrics + '\'' +
+                ", meaning='" + meaning + '\'' +
+                '}';
+    }
+
     public String getLyrics() {
         return lyrics;
     }
