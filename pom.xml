@@ -10,11 +10,6 @@
     <version>0.0.1</version>
     <dependencies>
         <dependency>
-            <groupId>org.sathya.sai</groupId>
-            <artifactId>devotion-slide-service</artifactId>
-            <version>0.0.1</version>
-        </dependency>
-        <dependency>
             <groupId>org.mongodb</groupId>
             <artifactId>mongo-java-driver</artifactId>
             <version>3.4.2</version>
@@ -26,8 +21,6 @@
             <version>3.5</version>
             <scope>compile</scope>
         </dependency>
-
-
         <!-- TEST dependencies -->
         <dependency>
             <groupId>junit</groupId>

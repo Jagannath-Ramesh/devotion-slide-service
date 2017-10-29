@@ -6,7 +6,7 @@ import org.sathya.sai.devotion.slide.datamodel.Slide;
 import java.util.List;
 
 /**
- * Created by Lennovo on 4/16/2017.
+ * Created by Sai Prasanna Baskaran on 4/16/2017.
  */
 public interface DevotionSlideDAO {
 
